@@ -21,7 +21,12 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package":"com.suaempresa.aplicacao",
+      "config": {
+      "googleMaps": {
+      "apiKey": "AIzaSyCetxTQA6PHXigAwpUEuFeeUAwJDI0Tl2I"}
+}
     },
     "web": {
       "favicon": "./assets/favicon.png"
